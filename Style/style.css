@@ -116,8 +116,35 @@ p{
 
 }
 .next-page{
-    right: 50%;
+    text-align: right;
+    margin-right: 15px;
+    margin: 15px;
+}
+.next-page a{
+    text-decoration: none;
     font-size: 16px;
     color: rgba(224, 44, 109, 0.87);
 
+}
+
+
+/*---------Footer--------*/
+.top-footer{
+    background-color: #0A0826;
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+}
+.footer-title{
+    color: white;
+    font-size: 16px;
+}
+.top-footer p{
+    color: white;
+}
+.icon{
+    background-color: white;
+    margin-right: 15px;
+    padding: 5px;
+    border-radius: 5px;
 }
